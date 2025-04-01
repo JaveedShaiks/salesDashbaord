@@ -1,0 +1,28 @@
+.main {
+    position: relative;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.1) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(0, 0, 0, 0.1) 1px, transparent 1px);
+    background-size: 10px 10px; 
+    padding: 0;
+    max-width: 1280px;
+    margin: 0 auto;
+    text-align: center;
+   border: 1px solid #ccc;
+}
+.wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.react-draggable {
+    cursor: move;
+  }
+  .filterWrapper {
+    position: relative;
+    background-color: #fff;
+    width: calc(100% - 10px);
+    display: flex;
+    gap: 5px;
+    padding: 5px;
+    align-items: center;
+  }

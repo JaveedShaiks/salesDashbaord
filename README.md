@@ -1,2 +1,2 @@
 # salesDashbaord
-sales report dashboard, display the data using plotly
+sales report dashboard to display the data using plotly

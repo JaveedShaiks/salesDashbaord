@@ -1,11 +1,13 @@
 # salesDashbaord
 sales report dashboard to display the data using plotly
 
-Install dependecies
+Install dependencies
+
 npm install
 
 
 Run the application
+
 npm run dev 
 
 
